@@ -24,6 +24,10 @@ A Junior JavaScript Developer aspiring to make big things.
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/graphql/graphql.png" alt="graphql"/>
 </span>
 
+<span>
+  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws"/>
+</span>
+
 #### 🌱 I’m currently learning:
 
 <span>
@@ -47,3 +51,9 @@ A Junior JavaScript Developer aspiring to make big things.
 <a href="https://www.facebook.com/zaidakhterr">
   <img alt="facebook" src="https://img.shields.io/badge/facebook-%231877f2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
+
+
+#### ⚡ Github Stats:
+
+<img align="left" alt="zaidakhterr's Github Stats" src="https://github-readme-stats.zaidakhterr.vercel.app/api?username=zaidakhterr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+<img align="left" alt="zaidakhterr's Github Stats" src="https://github-readme-stats.zaidakhterr.vercel.app/api/top-langs/?username=zaidakhterr&hide_border=true" />
