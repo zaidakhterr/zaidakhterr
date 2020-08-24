@@ -34,7 +34,7 @@ A Junior JavaScript Developer aspiring to make big things.
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" alt="vue"/>
 </span>
 
-#### Connect with me:
+#### 🤝 Connect with me:
 
 <a href="https://zaidakhterr.me/">
   <img alt="website" src="https://img.shields.io/badge/website-%23323330.svg?&style=for-the-badge&logo=Zulip&logoColor=white"/>
