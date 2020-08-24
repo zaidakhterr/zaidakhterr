@@ -40,19 +40,19 @@ A Junior JavaScript Developer aspiring to make big things.
 
 #### 🤝 Connect with me:
 
-<a href="https://zaidakhterr.me/">
+<a href="https://zaidakhterr.me/" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="website" src="https://img.shields.io/badge/website-%23323330.svg?&style=for-the-badge&logo=Zulip&logoColor=white"/>
 </a>
-<a href="mailto:zaidakhter1202@gmail.com">
+<a href="mailto:zaidakhter1202@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/zaidakhterr/">
+<a href="https://www.linkedin.com/in/zaidakhterr/" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
 </a>
-<a href="https://twitter.com/zaidakhterr">
+<a href="https://twitter.com/zaidakhterr" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="https://www.facebook.com/zaidakhterr">
+<a href="https://www.facebook.com/zaidakhterr" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="facebook" src="https://img.shields.io/badge/facebook-%231877f2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
