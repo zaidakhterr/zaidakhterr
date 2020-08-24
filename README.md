@@ -25,6 +25,10 @@ A Junior JavaScript Developer aspiring to make big things.
 </span>
 
 <span>
+  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/nodejs/nodejs.png" alt="nodejs"/>
+</span>
+
+<span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws"/>
 </span>
 
