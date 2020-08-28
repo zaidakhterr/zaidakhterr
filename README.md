@@ -69,4 +69,4 @@ A Junior JavaScript Developer aspiring to make big things.
 #### ⚡ Github Stats:
 
 <img align="left" alt="zaidakhterr's Github Stats" src="https://github-readme-stats.zaidakhterr.vercel.app/api?username=zaidakhterr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-<img align="left" alt="zaidakhterr's Github Stats" src="https://github-readme-stats.zaidakhterr.vercel.app/api/top-langs/?username=zaidakhterr&hide_border=true" />
+<img align="left" alt="zaidakhterr's Top Languages" src="https://github-readme-stats.zaidakhterr.vercel.app/api/top-langs/?username=zaidakhterr&hide_border=true&layout=compact" />
