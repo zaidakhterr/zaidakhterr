@@ -1,6 +1,6 @@
 ### Hi there, I'm Zaid! 👋
 
-A Junior JavaScript Developer aspiring to make cool stuff with code.
+A JavaScript Developer aspiring to make cool stuff with code.
 
 #### 🔭 I’m currently working on:
 
