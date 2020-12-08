@@ -32,18 +32,15 @@ A JavaScript Developer aspiring to make cool stuff with code.
 </span>
 
 <span>
+  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/graphql/graphql.png" alt="graphql"/>
+</span>
+
+<span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws"/>
 </span>
 
 
-
-
-
 #### 🌱 I’m currently learning:
-
-<span>
-  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/graphql/graphql.png" alt="graphql"/>
-</span>
 
 <span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" alt="pwa"/>
@@ -52,7 +49,6 @@ A JavaScript Developer aspiring to make cool stuff with code.
 <span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" alt="vue"/>
 </span>
-
 
 
 #### 🤝 Connect with me:
