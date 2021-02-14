@@ -24,7 +24,7 @@ A JavaScript Developer aspiring to make cool stuff with code.
 </span>
 
 <span>
-  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/nextjs/nextjs.png" alt="nextjs"/>
+  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="nextjs"/>
 </span>
 
 <span>
