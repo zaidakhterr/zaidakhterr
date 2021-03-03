@@ -54,6 +54,9 @@ A JavaScript Developer aspiring to make cool stuff with code.
   <img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" alt="vue"/>
 </span>
 
+<span>
+  <img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/3171503?s=200&v=4" alt="ionic"/>
+</span>
 
 #### 🤝 Connect with me:
 
