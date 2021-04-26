@@ -47,7 +47,7 @@ A JavaScript Developer aspiring to make cool stuff with code.
 #### 🌱 I’m currently learning:
 
 <span>
-  <img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="react-native"/>
+  <img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue"/>
 </span>
 
 <span>
