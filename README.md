@@ -31,6 +31,7 @@ A JavaScript Developer aspiring to make cool stuff with code.
 <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" alt="mui"/></code>
 <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" alt="chakraui"/></code>
 <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/12101536?s=200&v=4" alt="antd"/></code>
+<code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" alt="storybook"/></code>
 <br>
 <br>
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/nodejs/nodejs.png" alt="nodejs"/></code>
@@ -38,6 +39,7 @@ A JavaScript Developer aspiring to make cool stuff with code.
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png" alt="nestjs"/></code>
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"/></code>
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/graphql/graphql.png" alt="graphql"/></code>
+<code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" alt="apollo"/></code>
 <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="prisma"/></code>
 <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="typeorm"/></code>
 <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" alt="socket.io"/></code>
