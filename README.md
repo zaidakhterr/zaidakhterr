@@ -37,5 +37,6 @@ A JavaScript Developer aspiring to make cool stuff with code.
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"/></code>
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png" alt="google cloud"/></code>
 
+
 <img align="left" alt="zaidakhterr's Github Stats" src="https://github-readme-stats.zaidakhterr.vercel.app/api?username=zaidakhterr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=onedark" />
 <img align="left" alt="zaidakhterr's Top Languages" src="https://github-readme-stats.zaidakhterr.vercel.app/api/top-langs/?username=zaidakhterr&hide_border=true&layout=compact&theme=onedark" />
