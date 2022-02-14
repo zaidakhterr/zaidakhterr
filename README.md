@@ -2,7 +2,7 @@
 
 A JavaScript Developer aspiring to make cool stuff with code.
 
-<a href="https://zaidakhterr.netlify.dev/" target="_blank" rel="nofollow noopener noreferrer">
+<a href="https://zaidakhter.com/" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="website" src="https://img.shields.io/badge/website-%23323330.svg?&style=for-the-badge&logo=Zulip&logoColor=white"/>
 </a>
 <a href="mailto:zaidakhter1202@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
