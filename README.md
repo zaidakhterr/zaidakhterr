@@ -1,5 +1,3 @@
-### Hey, I'm Zaid!
-
 #### Links:
 
 <a href="https://zaidakhter.com/" target="_blank" rel="nofollow noopener noreferrer">
