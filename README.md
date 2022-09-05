@@ -1,5 +1,7 @@
 ### Hey, I'm Zaid!
 
+#### Links:
+
 <a href="https://zaidakhter.com/" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="website" src="https://img.shields.io/badge/website-%23323330.svg?&style=for-the-badge&logo=Zulip&logoColor=white"/>
 </a>
@@ -51,6 +53,8 @@
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png" alt="google cloud"/></code>
 <br>
 <br>
+
+#### Stats:
 
 <img align="left" alt="zaidakhterr's Github Stats" src="https://github-readme-stats.zaidakhterr.vercel.app/api?username=zaidakhterr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=onedark" />
 <img align="left" alt="zaidakhterr's Top Languages" src="https://github-readme-stats.zaidakhterr.vercel.app/api/top-langs/?username=zaidakhterr&hide_border=true&layout=compact&theme=onedark" />
