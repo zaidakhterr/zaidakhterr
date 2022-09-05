@@ -2,6 +2,9 @@
 
 A JavaScript Developer aspiring to make cool stuff with code.
 
+<a href="https://www.upwork.com/freelancers/zaid" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="facebook" src="https://img.shields.io/badge/upwork-%231877f2.svg?&style=for-the-badge&logo=upwork&logoColor=white&color=17A700"/>
+</a>
 <a href="https://zaidakhter.com/" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="website" src="https://img.shields.io/badge/website-%23323330.svg?&style=for-the-badge&logo=Zulip&logoColor=white"/>
 </a>
